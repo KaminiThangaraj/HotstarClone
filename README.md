@@ -1,3 +1,3 @@
 Hi everyone...
 Disney+ Hotstar clone front-end is created by using HTML and CSS.
-visit here --> https://melodic-kitsune-4ad9c5.netlify.app/
+visit here --> https://symphonious-mooncake-87e380.netlify.app
